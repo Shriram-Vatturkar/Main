@@ -1,26 +1,26 @@
-Java Program for User Input and Number Analysis
+#Java Program for User Input and Number Analysis
 
-Description:
+##Description:
 
 This Java program allows users to input a specified number of integers, and it performs various analyses on the input data. It categorizes the numbers into two ArrayLists, one for even numbers and another for odd numbers. Additionally, the program identifies the index of the first number with the smallest distance to its neighboring number.
 
-Key Features:
+##Key Features:
 
-User Input:
+##User Input:
 Prompt users to input the desired number of integers, and then take user input for the specified count.
 
-Categorization:
+##Categorization:
 Categorize input numbers into two separate ArrayLists—one for even numbers and another for odd numbers.
 
-Display Categorized Lists:
+##Display Categorized Lists:
 Present the ArrayLists containing even and odd numbers for user inspection.
 
-Finding Index with Smallest Distance:
+##Finding Index with Smallest Distance:
 Implement a function named findIndexWithSmallestDistance, which calculates the index of the initial number with the smallest distance to its neighboring number in the ArrayList.
 
-How to Utilize:
+##How to Utilize:
 
-Compile:
+##Compile:
 Compile the Java source file using a Java compiler.
 
 bash
