@@ -1,6 +1,6 @@
-#Java Program for User Input and Number Analysis
+#Java Program for User Input and Number Analysis#
 
-##Description:
+##Description:##
 
 This Java program allows users to input a specified number of integers, and it performs various analyses on the input data. It categorizes the numbers into two ArrayLists, one for even numbers and another for odd numbers. Additionally, the program identifies the index of the first number with the smallest distance to its neighboring number.
 
